@@ -8,7 +8,7 @@ I'm Tuhin, a Full Stack Web Application Developer from <img src="assets/banglade
 
 
 :hearts: &emsp;I enjoy programming and Learning Technology <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `var_dump($value)` `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: tarequlislam105150@gmail.com.<br/>
 
 #### Things I code with
