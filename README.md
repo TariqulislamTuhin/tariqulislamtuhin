@@ -17,8 +17,7 @@ I'm Tuhin, a Full Stack Web Application Developer from <img src="assets/banglade
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tariqulislamtuhin&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqulislamtuhin&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tariqulislamtuhin&theme=react&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqulislamtuhin&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tariqulislamtuhin&icon=0&color=0)](https://visitcount.itsvg.in)
