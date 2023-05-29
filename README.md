@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tariqul Islam Tuhin</h1>
+<h2 align="center">Hi 👋, I'm *Tariqul Islam Tuhin*</h2>
 
 <h3 align="center">A programmer from Bangladesh</h3>
 
