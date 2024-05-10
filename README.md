@@ -21,6 +21,6 @@
 ### GitHub Stats:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 900px; margin: auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqulislamtuhin&theme=react&hide_border=true" style="margin-bottom: 10px; max-width: 49%; height: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqulislamtuhin&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width: 49%; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqulislamtuhin&theme=react&hide_border=true" style="margin-bottom: 20px; max-width: 49%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqulislamtuhin&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="margin-bottom: 20px; max-width: 49%; height: auto;">
 </div>
