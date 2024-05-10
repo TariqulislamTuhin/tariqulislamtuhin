@@ -20,7 +20,20 @@
 
 ### GitHub Stats:
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap; height: 200px; width: 900px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqulislamtuhin&theme=react&hide_border=true" style="margin-right: 10px; max-width: calc(50% - 5px); height: 100%; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqulislamtuhin&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width: calc(50% - 5px); height: 100%;">
 </div>
+
+<style>
+    @media only screen and (max-width: 600px) {
+        div {
+            width: 100%;
+        }
+        img {
+            max-width: 100%;
+            margin-right: 0;
+            margin-bottom: 5px;
+        }
+    }
+</style>
