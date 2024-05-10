@@ -21,16 +21,6 @@
 ### GitHub Stats:
 
 <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqulislamTuhin&theme=react&hide_border=true" alt="TariqulislamTuhin's Streak">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqulislamTuhin&theme=react&show_icons=true&hide_border=true&layout=compact" alt="TariqulislamTuhin's Top Languages">
-</div>
-
-<div style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqulislamTuhin&theme=react&hide_border=true" alt="TariqulislamTuhin's Streak" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqulislamTuhin&theme=react&show_icons=true&hide_border=true&layout=compact" alt="TariqulislamTuhin's Top Languages" style="display: inline-block;">
 </div>
-
-![TariqulislamTuhin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TariqulislamTuhin&theme=react&hide_border=true)
-
-![TariqulislamTuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TariqulislamTuhin&theme=react&show_icons=true&hide_border=true&layout=compact)
