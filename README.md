@@ -2,6 +2,8 @@
 
 <h3 align="center">Software Engineer | Bangladesh 🇧🇩</h3>
 
+[View Resume](https://tariqul-islam-tuhin-cv.vercel.app/)
+
 #### Tools and Technologies I Use:
 
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />](https://expressjs.com/)
