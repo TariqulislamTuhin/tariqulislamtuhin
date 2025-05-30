@@ -27,11 +27,12 @@
 #### Backend Development
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="25" />
-  <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=e0234e" height="25" />
-  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="25" />
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="25" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-282C34?logo=postgresql&logoColor=white&label=Drizzle+ORM" height="25" />
+  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="20" />
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="20" />
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="20" />
+  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="20" />
+  <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="20" />
+  <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="20" />
 </div>
 
 #### Frontend Development
@@ -65,24 +66,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqulislamTuhin&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqulislamTuhin&theme=react&layout=compact&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TariqulislamTuhin&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/TariqulislamTuhin/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TariqulislamTuhin&repo=your-project&theme=react&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/TariqulislamTuhin/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TariqulislamTuhin&repo=another-project&theme=react&hide_border=true" alt="Project 2" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqulislamTuhin&theme=react&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqulislamTuhin&theme=react&layout=compact&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=TariqulislamTuhin&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
