@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-- 🏢 **Senior Full-Stack Developer** & **Top Contributor** in enterprise-level ERP systems and microservices
+- 🏢 **Full-Stack Developer** & **Top Contributor** in enterprise-level ERP systems and microservices
 - 🚀 **Current Focus**: Leading development on enterprise systems across multiple platforms
 - 💼 **Proven Impact**: Architected financial systems, database migrations, and real-time processing services
 - 🔧 **Technical Leadership**: End-to-end ownership from database design to modern React/TypeScript frontends
