@@ -109,7 +109,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=TariqulislamTuhin&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=TariqulislamTuhin&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TariqulislamTuhin&layout=compact&theme=github_dark)
+![TariqulislamTuhin's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=TariqulislamTuhin&type=languages&theme=github&chart=donut)
 
 ---
 
