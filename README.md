@@ -107,21 +107,9 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqulislamTuhin&theme=react&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqulislamTuhin&theme=react&layout=compact&hide_border=true" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TariqulislamTuhin&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=TariqulislamTuhin&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=TariqulislamTuhin&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TariqulislamTuhin&layout=compact&theme=github_dark)
 
 ---
 
