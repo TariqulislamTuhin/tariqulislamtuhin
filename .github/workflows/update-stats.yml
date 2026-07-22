@@ -1,0 +1,52 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # daily at 02:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-stats.ts"
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm install
+
+      - name: Type-check
+        run: npm run typecheck
+
+      - name: Generate stats SVG
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: TariqulislamTuhin
+        run: npm run stats
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain assets/github-stats.svg)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/github-stats.svg
+            git commit -m "chore: refresh GitHub stats"
+            git push
+          else
+            echo "No changes to stats."
+          fi

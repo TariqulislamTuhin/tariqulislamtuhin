@@ -53,8 +53,6 @@ shrinking bloated build output (170MB+) on large App Router apps.
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=TariqulislamTuhin&show_icons=true&hide_border=true&count_private=true&theme=transparent&hide_title=true&hide=contribs&card_width=420" height="150" />
-&nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TariqulislamTuhin&hide_border=true&theme=transparent" height="150" />
+<img src="./assets/github-stats.svg" alt="Tariqul Islam Tuhin — GitHub statistics" width="480" />
 
 </div>
