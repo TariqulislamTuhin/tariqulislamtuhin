@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210" role="img" aria-label="Tariqul Islam Tuhin GitHub statistics">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="196" viewBox="0 0 480 196" role="img" aria-label="Tariqul Islam Tuhin GitHub statistics">
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
     .num { font-variant-numeric: tabular-nums; }
@@ -6,29 +6,23 @@
     .sub   { fill: #656d76; }
     .muted { fill: #57606a; }
     .value { fill: #1f2328; font-weight: 600; }
-    .track { fill: #d0d7de; }
     .rule  { stroke: #d0d7de; }
     @media (prefers-color-scheme: dark) {
       .title, .value { fill: #e6edf3; }
       .sub   { fill: #7d8590; }
       .muted { fill: #8b949e; }
-      .track { fill: #30363d; }
       .rule  { stroke: #30363d; }
     }
   </style>
-  <rect width="480" height="210" fill="transparent" />
+  <rect width="480" height="196" fill="transparent" />
   <text class="title" x="24" y="40" font-size="17">Tariqul Islam Tuhin</text>
   <text class="sub" x="456" y="40" font-size="12" text-anchor="end">@TariqulislamTuhin</text>
   <line class="rule" x1="24" y1="56" x2="456" y2="56" />
-  <line class="rule" x1="240" y1="80" x2="240" y2="200" stroke-opacity="0.6" />
-  <text class="sub" x="252" y="76" font-size="10" letter-spacing="1">TOP LANGUAGES</text>
-  <text class="muted" x="24" y="98" font-size="13">Stars earned</text><text class="value num" x="224" y="98" font-size="15" text-anchor="end">0</text>
-    <text class="muted" x="24" y="130" font-size="13">Total commits</text><text class="value num" x="224" y="130" font-size="15" text-anchor="end">134</text>
-    <text class="muted" x="24" y="162" font-size="13">Pull requests</text><text class="value num" x="224" y="162" font-size="15" text-anchor="end">9</text>
-    <text class="muted" x="24" y="194" font-size="13">Followers</text><text class="value num" x="224" y="194" font-size="15" text-anchor="end">26</text>
-  <text class="muted" x="252" y="104" font-size="12">Blade</text><rect class="track" x="332" y="95" width="98" height="6" rx="3" /><rect x="332" y="95" width="32" height="6" rx="3" fill="#f7523f" /><text class="muted num" x="456" y="104" font-size="11" text-anchor="end">33%</text>
-    <text class="muted" x="252" y="127" font-size="12">PHP</text><rect class="track" x="332" y="118" width="98" height="6" rx="3" /><rect x="332" y="118" width="22" height="6" rx="3" fill="#4F5D95" /><text class="muted num" x="456" y="127" font-size="11" text-anchor="end">23%</text>
-    <text class="muted" x="252" y="150" font-size="12">JavaScript</text><rect class="track" x="332" y="141" width="98" height="6" rx="3" /><rect x="332" y="141" width="14" height="6" rx="3" fill="#f1e05a" /><text class="muted num" x="456" y="150" font-size="11" text-anchor="end">14%</text>
-    <text class="muted" x="252" y="173" font-size="12">TypeScript</text><rect class="track" x="332" y="164" width="98" height="6" rx="3" /><rect x="332" y="164" width="9" height="6" rx="3" fill="#3178c6" /><text class="muted num" x="456" y="173" font-size="11" text-anchor="end">9%</text>
-    <text class="muted" x="252" y="196" font-size="12">HTML</text><rect class="track" x="332" y="187" width="98" height="6" rx="3" /><rect x="332" y="187" width="8" height="6" rx="3" fill="#e34c26" /><text class="muted num" x="456" y="196" font-size="11" text-anchor="end">8%</text>
+  <line class="rule" x1="240" y1="78" x2="240" y2="182" stroke-opacity="0.6" />
+  <text class="muted" x="24" y="100" font-size="13">Total commits</text><text class="value num" x="224" y="100" font-size="16" text-anchor="end">135</text>
+    <text class="muted" x="24" y="138" font-size="13">Pull requests</text><text class="value num" x="224" y="138" font-size="16" text-anchor="end">9</text>
+    <text class="muted" x="24" y="176" font-size="13">Contributions (1yr)</text><text class="value num" x="224" y="176" font-size="16" text-anchor="end">6,915</text>
+  <text class="muted" x="256" y="100" font-size="13">PR reviews</text><text class="value num" x="456" y="100" font-size="16" text-anchor="end">0</text>
+    <text class="muted" x="256" y="138" font-size="13">Repos contributed to</text><text class="value num" x="456" y="138" font-size="16" text-anchor="end">2</text>
+    <text class="muted" x="256" y="176" font-size="13">Followers</text><text class="value num" x="456" y="176" font-size="16" text-anchor="end">26</text>
 </svg>
