@@ -1,39 +1,40 @@
-# Tariqul Islam
+# Tariqul Islam Tuhin
 
-**Full-stack developer** — enterprise ERP, financial systems, and distributed services.
-I design the data models and build the engines that run on top of them.
+**Full-Stack TypeScript Engineer** — PHP · Node.js · PostgreSQL
+I build robust SaaS, ERP, and e-commerce systems with a focus on clean architecture.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-282C34?style=flat-square&logo=vercel&logoColor=white)](https://tariqul-islam-tuhin.vercel.app/)
 [![Résumé](https://img.shields.io/badge/Résumé-282C34?style=flat-square&logo=readdotcv&logoColor=white)](https://tariqul-islam-tuhin-cv.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-282C34?style=flat-square&logo=github&logoColor=white)](https://github.com/TariqulislamTuhin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqulisamtuhin)
+[![X](https://img.shields.io/badge/X-282C34?style=flat-square&logo=x&logoColor=white)](https://x.com/tituhin_)
 [![Email](https://img.shields.io/badge/Email-282C34?style=flat-square&logo=gmail&logoColor=white)](mailto:tarequlislam105150@gmail.com)
 
 ---
 
-## Selected Work
+## What I Build
 
-**Enterprise ERP Platform** &nbsp;·&nbsp; `NestJS` `PostgreSQL` `React` `TypeScript`
-Multi-tenant resource-planning suite. Led the accounting core — chart of accounts,
-general ledger, and journal entries built on double-entry bookkeeping, with audit
-trails and tenant-level data isolation.
+**Enterprise ERP & fintech** — multi-tenant SaaS platforms with double-entry accounting
+engines, payroll, and POS, wired to bank and payment integrations. I lead the finance
+core end to end, from schema to API.
 
-**Currency Exchange Service** &nbsp;·&nbsp; `Node.js` `Redis` `BullMQ` `Docker`
-Real-time forex synchronization microservice. Cron-scheduled rate ingestion,
-background job processing, and a cache layer feeding downstream financial modules.
+**Commerce at scale** — multi-vendor marketplaces and headless storefronts with
+real-time inventory, vendor dashboards, and GraphQL/REST APIs.
+<sub>Live demos: [PickBazar](https://pickbazar.redq.io) · [Pixer](https://pixer.redq.io) · [Chawkbazar](https://chawkbazar.redq.io)</sub>
 
-**Financial Reporting Engine** &nbsp;·&nbsp; `TypeScript` `Drizzle` `PostgreSQL`
-Custom report generation with multi-dimensional filtering, scheduling, and
-automated delivery across the ERP suite.
+> Full case studies and experience → **[Résumé](https://tariqul-islam-tuhin-cv.vercel.app/)**
 
 ---
 
 ## Stack
 
-**Languages** &nbsp; `TypeScript` · `JavaScript` · `PHP` · `Python`
-**Backend** &nbsp;&nbsp;&nbsp;&nbsp; `Node.js` · `NestJS` · `Express` · `Laravel` · `FastAPI`
-**Frontend** &nbsp;&nbsp;&nbsp; `Next.js` · `React` · `TailwindCSS` · `shadcn/ui`
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `PostgreSQL` · `MySQL` · `Redis` · `Drizzle` · `Prisma`
-**Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Docker` · `BullMQ` · `Socket.io` · `Vercel`
+| | |
+|---|---|
+| **Languages** | `TypeScript` · `JavaScript` · `PHP` · `SQL` |
+| **Backend** | `Node.js` · `NestJS` · `Express` · `Laravel` · `GraphQL` |
+| **Frontend** | `Next.js` · `React` · `TailwindCSS` · `shadcn/ui` |
+| **Data** | `PostgreSQL` · `MySQL` · `Redis` |
+| **Infra** | `Docker` · `Kafka` · `RabbitMQ` |
 
 ---
 
