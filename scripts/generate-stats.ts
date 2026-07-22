@@ -96,9 +96,18 @@ interface Stats {
   followers: number;
 }
 
+/** Hand-picked core languages (declared, not byte-measured — edit to taste). */
+const LANGUAGES: Array<{ name: string; color: string }> = [
+  { name: "TypeScript", color: "#3178c6" },
+  { name: "PHP", color: "#4F5D95" },
+  { name: "Rust", color: "#dea584" },
+  { name: "C#", color: "#178600" },
+  { name: "Python", color: "#3572A5" },
+];
+
 function buildSvg(s: Stats): string {
   const W = 480;
-  const H = 196;
+  const H = 226;
   const colA: Array<[string, number]> = [
     ["Total commits", s.commits],
     ["Pull requests", s.pullRequests],
@@ -114,8 +123,17 @@ function buildSvg(s: Stats): string {
     `<text class="muted" x="${labelX}" y="${y}" font-size="13">${label}</text>` +
     `<text class="value num" x="${valueX}" y="${y}" font-size="16" text-anchor="end">${fmt(value)}</text>`;
 
-  const cellsA = colA.map(([l, v], i) => cell(l, v, 24, 224, 100 + i * 38)).join("\n    ");
-  const cellsB = colB.map(([l, v], i) => cell(l, v, 256, 456, 100 + i * 38)).join("\n    ");
+  const cellsA = colA.map(([l, v], i) => cell(l, v, 24, 224, 88 + i * 34)).join("\n    ");
+  const cellsB = colB.map(([l, v], i) => cell(l, v, 256, 456, 88 + i * 34)).join("\n    ");
+
+  let lx = 108;
+  const langEls = LANGUAGES.map((l) => {
+    const el =
+      `<circle cx="${lx}" cy="206" r="4" fill="${esc(l.color)}" />` +
+      `<text class="muted" x="${lx + 10}" y="210" font-size="12">${esc(l.name)}</text>`;
+    lx += 10 + l.name.length * 7.2 + 26;
+    return el;
+  }).join("\n  ");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(s.name)} GitHub statistics">
   <style>
@@ -134,12 +152,15 @@ function buildSvg(s: Stats): string {
     }
   </style>
   <rect width="${W}" height="${H}" fill="transparent" />
-  <text class="title" x="24" y="40" font-size="17">${esc(s.name)}</text>
-  <text class="sub" x="456" y="40" font-size="12" text-anchor="end">@${esc(s.login)}</text>
-  <line class="rule" x1="24" y1="56" x2="456" y2="56" />
-  <line class="rule" x1="240" y1="78" x2="240" y2="182" stroke-opacity="0.6" />
+  <text class="title" x="24" y="38" font-size="17">${esc(s.name)}</text>
+  <text class="sub" x="456" y="38" font-size="12" text-anchor="end">@${esc(s.login)}</text>
+  <line class="rule" x1="24" y1="54" x2="456" y2="54" />
+  <line class="rule" x1="240" y1="70" x2="240" y2="168" stroke-opacity="0.6" />
   ${cellsA}
   ${cellsB}
+  <line class="rule" x1="24" y1="184" x2="456" y2="184" />
+  <text class="sub" x="24" y="210" font-size="10" letter-spacing="1">LANGUAGES</text>
+  ${langEls}
 </svg>
 `;
 }
