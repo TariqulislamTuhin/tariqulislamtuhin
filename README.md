@@ -1,7 +1,10 @@
+<div align="center">
+
 # Tariqul Islam Tuhin
 
-**Full-Stack TypeScript Engineer** — PHP · Node.js · PostgreSQL
-I build robust SaaS, ERP, and e-commerce systems with a focus on clean architecture.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=540&lines=Full-Stack+TypeScript+Engineer;ERP+%C2%B7+Fintech+%C2%B7+Commerce+at+scale;Clean+architecture%2C+shipped+to+production" alt="Tariqul Islam Tuhin" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-282C34?style=flat-square&logo=vercel&logoColor=white)](https://tariqul-islam-tuhin.vercel.app/)
 [![Résumé](https://img.shields.io/badge/Résumé-282C34?style=flat-square&logo=readdotcv&logoColor=white)](https://tariqul-islam-tuhin-cv.vercel.app/)
@@ -9,6 +12,8 @@ I build robust SaaS, ERP, and e-commerce systems with a focus on clean architect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqulisamtuhin)
 [![X](https://img.shields.io/badge/X-282C34?style=flat-square&logo=x&logoColor=white)](https://x.com/tituhin_)
 [![Email](https://img.shields.io/badge/Email-282C34?style=flat-square&logo=gmail&logoColor=white)](mailto:tarequlislam105150@gmail.com)
+
+</div>
 
 ---
 
@@ -38,7 +43,10 @@ real-time inventory, vendor dashboards, and GraphQL/REST APIs.
 
 ---
 
-<a href="https://github.com/TariqulislamTuhin">
-  <img align="left" height="140" src="https://github-readme-stats-fast.vercel.app/api?username=TariqulislamTuhin&show_icons=true&hide_border=true&count_private=true&theme=transparent&hide_title=true&hide=contribs" />
-  <img height="140" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=TariqulislamTuhin&type=languages&theme=github&chart=donut" />
-</a>
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=TariqulislamTuhin&show_icons=true&hide_border=true&count_private=true&theme=transparent&hide_title=true&hide=contribs&card_width=420" height="150" />
+&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TariqulislamTuhin&hide_border=true&theme=transparent" height="150" />
+
+</div>
