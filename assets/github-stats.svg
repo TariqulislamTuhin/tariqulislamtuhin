@@ -23,12 +23,12 @@
   <line class="rule" x1="240" y1="80" x2="240" y2="200" stroke-opacity="0.6" />
   <text class="sub" x="252" y="76" font-size="10" letter-spacing="1">TOP LANGUAGES</text>
   <text class="muted" x="24" y="98" font-size="13">Stars earned</text><text class="value num" x="224" y="98" font-size="15" text-anchor="end">0</text>
-    <text class="muted" x="24" y="130" font-size="13">Total commits</text><text class="value num" x="224" y="130" font-size="15" text-anchor="end">10,162</text>
-    <text class="muted" x="24" y="162" font-size="13">Pull requests</text><text class="value num" x="224" y="162" font-size="15" text-anchor="end">2,515</text>
+    <text class="muted" x="24" y="130" font-size="13">Total commits</text><text class="value num" x="224" y="130" font-size="15" text-anchor="end">134</text>
+    <text class="muted" x="24" y="162" font-size="13">Pull requests</text><text class="value num" x="224" y="162" font-size="15" text-anchor="end">9</text>
     <text class="muted" x="24" y="194" font-size="13">Followers</text><text class="value num" x="224" y="194" font-size="15" text-anchor="end">26</text>
-  <text class="muted" x="252" y="104" font-size="12">Blade</text><rect class="track" x="332" y="95" width="98" height="6" rx="3" /><rect x="332" y="95" width="52" height="6" rx="3" fill="#f7523f" /><text class="muted num" x="456" y="104" font-size="11" text-anchor="end">53%</text>
+  <text class="muted" x="252" y="104" font-size="12">Blade</text><rect class="track" x="332" y="95" width="98" height="6" rx="3" /><rect x="332" y="95" width="32" height="6" rx="3" fill="#f7523f" /><text class="muted num" x="456" y="104" font-size="11" text-anchor="end">33%</text>
     <text class="muted" x="252" y="127" font-size="12">PHP</text><rect class="track" x="332" y="118" width="98" height="6" rx="3" /><rect x="332" y="118" width="22" height="6" rx="3" fill="#4F5D95" /><text class="muted num" x="456" y="127" font-size="11" text-anchor="end">23%</text>
-    <text class="muted" x="252" y="150" font-size="12">TypeScript</text><rect class="track" x="332" y="141" width="98" height="6" rx="3" /><rect x="332" y="141" width="13" height="6" rx="3" fill="#3178c6" /><text class="muted num" x="456" y="150" font-size="11" text-anchor="end">13%</text>
-    <text class="muted" x="252" y="173" font-size="12">HTML</text><rect class="track" x="332" y="164" width="98" height="6" rx="3" /><rect x="332" y="164" width="7" height="6" rx="3" fill="#e34c26" /><text class="muted num" x="456" y="173" font-size="11" text-anchor="end">7%</text>
-    <text class="muted" x="252" y="196" font-size="12">JavaScript</text><rect class="track" x="332" y="187" width="98" height="6" rx="3" /><rect x="332" y="187" width="3" height="6" rx="3" fill="#f1e05a" /><text class="muted num" x="456" y="196" font-size="11" text-anchor="end">1%</text>
+    <text class="muted" x="252" y="150" font-size="12">JavaScript</text><rect class="track" x="332" y="141" width="98" height="6" rx="3" /><rect x="332" y="141" width="14" height="6" rx="3" fill="#f1e05a" /><text class="muted num" x="456" y="150" font-size="11" text-anchor="end">14%</text>
+    <text class="muted" x="252" y="173" font-size="12">TypeScript</text><rect class="track" x="332" y="164" width="98" height="6" rx="3" /><rect x="332" y="164" width="9" height="6" rx="3" fill="#3178c6" /><text class="muted num" x="456" y="173" font-size="11" text-anchor="end">9%</text>
+    <text class="muted" x="252" y="196" font-size="12">HTML</text><rect class="track" x="332" y="187" width="98" height="6" rx="3" /><rect x="332" y="187" width="8" height="6" rx="3" fill="#e34c26" /><text class="muted num" x="456" y="196" font-size="11" text-anchor="end">8%</text>
 </svg>
