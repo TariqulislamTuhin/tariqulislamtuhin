@@ -34,10 +34,8 @@ real-time inventory, vendor dashboards, and GraphQL/REST APIs.
 ## Open Source
 
 **Next.js — [Turbopack fix #95242](https://github.com/vercel/next.js/pull/95242)** &nbsp;`merged`
-Turbopack stored `filename`/`exportedName` in every per-page worker entry of the
-server-reference-manifest, repeating them `O(actions × pages)` times and bloating the
-manifest to 170MB+ on large App Router apps. Removed the redundant copies so worker
-entries carry only `{ moduleId, async }` — matching webpack, same data, far smaller output.
+Removed duplicate `filename`/`exportedName` fields from the server-reference-manifest,
+shrinking bloated build output (170MB+) on large App Router apps.
 
 ---
 
