@@ -2,13 +2,10 @@
 
 # Tariqul Islam Tuhin
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=540&lines=Full-Stack+TypeScript+Engineer;ERP+%C2%B7+Fintech+%C2%B7+Commerce+at+scale;Clean+architecture%2C+shipped+to+production" alt="Tariqul Islam Tuhin" />
-
-<br/>
+**Full-stack TypeScript engineer** · ERP & fintech at [RedQ Technologies](https://redq.io) · Dhaka, Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-282C34?style=flat-square&logo=vercel&logoColor=white)](https://tariqul-islam-tuhin.vercel.app/)
 [![Résumé](https://img.shields.io/badge/Résumé-282C34?style=flat-square&logo=readdotcv&logoColor=white)](https://tariqul-islam-tuhin-cv.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-282C34?style=flat-square&logo=github&logoColor=white)](https://github.com/TariqulislamTuhin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqulisamtuhin)
 [![X](https://img.shields.io/badge/X-282C34?style=flat-square&logo=x&logoColor=white)](https://x.com/tituhin_)
 [![Email](https://img.shields.io/badge/Email-282C34?style=flat-square&logo=gmail&logoColor=white)](mailto:tarequlislam105150@gmail.com)
@@ -17,37 +14,40 @@
 
 ---
 
-## What I Build
+### Now
 
-**Enterprise ERP & fintech** — multi-tenant SaaS platforms with double-entry accounting
-engines, payroll, and POS, wired to bank and payment integrations. I lead the finance
-core end to end, from schema to API.
+I lead the finance core of a multi-tenant ERP: double-entry accounting, banking,
+billing and payroll, from database schema to API to UI. Next.js 16 monorepo on Bun and
+Turborepo, with Drizzle on Postgres and background jobs in a separate worker service.
 
-**Commerce at scale** — multi-vendor marketplaces and headless storefronts with
-real-time inventory, vendor dashboards, and GraphQL/REST APIs.
+### Before
+
+Multi-vendor marketplaces and headless storefronts with real-time inventory, vendor
+dashboards and GraphQL/REST APIs.
 <sub>Live demos: [PickBazar](https://pickbazar.redq.io) · [Pixer](https://pixer.redq.io) · [Chawkbazar](https://chawkbazar.redq.io)</sub>
 
-> Full case studies and experience → **[Résumé](https://tariqul-islam-tuhin-cv.vercel.app/)**
+> Case studies and full experience → **[Résumé](https://tariqul-islam-tuhin-cv.vercel.app/)**
 
 ---
 
-## Open Source
+### Open source
 
-**Next.js — [Turbopack fix #95242](https://github.com/vercel/next.js/pull/95242)** &nbsp;`merged`
-Removed duplicate `filename`/`exportedName` fields from the server-reference-manifest,
-shrinking bloated build output (170MB+) on large App Router apps.
+| | Contribution | Result |
+|---|---|---|
+| ✅ merged | [vercel/next.js#95242](https://github.com/vercel/next.js/pull/95242) — Turbopack: dedupe `filename`/`exportedName` in server-reference-manifest | Fixes manifests growing past 170 MB on large App Router apps ([#95239](https://github.com/vercel/next.js/issues/95239)) |
+| 🔄 in review | [vercel/next.js#98868](https://github.com/vercel/next.js/pull/98868) — Turbopack: share the server actions loader between pages with the same actions | Max RSS 9.6 GB → 6.6 GB on a 661-page build |
 
 ---
 
-## Stack
+### Stack
 
 | | |
 |---|---|
 | **Languages** | `TypeScript` · `JavaScript` · `PHP` · `SQL` |
-| **Backend** | `Node.js` · `NestJS` · `Express` · `Laravel` · `GraphQL` |
-| **Frontend** | `Next.js` · `React` · `TailwindCSS` · `shadcn/ui` |
-| **Data** | `PostgreSQL` · `MySQL` · `Redis` |
-| **Infra** | `Docker` · `Kafka` · `RabbitMQ` |
+| **Frontend** | `Next.js` · `React` · `TailwindCSS` · `shadcn/ui` · `React Hook Form` · `Zod` |
+| **Backend** | `Node.js` · `Bun` · `oRPC` · `NestJS` · `Express` · `Laravel` · `GraphQL` · `Better Auth` |
+| **Data** | `PostgreSQL` · `Drizzle` · `MySQL` · `Redis` |
+| **Tooling & infra** | `Turborepo` · `Docker` · `Kafka` · `RabbitMQ` |
 
 ---
 
